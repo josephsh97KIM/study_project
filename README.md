@@ -1,6 +1,8 @@
 # study_project
 Pycharm 19.1에서 개발(python3.6)
+
 QT Designer를 이용해 GUI 개발(python3.6)
+
 tensorflow 2.0
 
 21.08.12 main.py에서 Drowsy(졸음인식)형식으로 학습집중도 확인
